@@ -1,0 +1,10 @@
+name: dego_cu113
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8
+  - pip=24.2
+  - setuptools=60.2.0
+  - wheel=0.44.0
+  - ninja=1.11.1
